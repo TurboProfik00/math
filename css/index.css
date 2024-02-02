@@ -3,7 +3,6 @@ body {
 }
 
 .header-math {
-    height: 150px;
     border-bottom: 3px solid palevioletred;
     background-color: pink;
     margin: 0;
@@ -21,7 +20,6 @@ body {
 }
 
 .footer-math {
-    height: 150px;
     border-top: 3px solid palevioletred;
     background-color: pink;
     margin: 0;
